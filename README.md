@@ -1,4 +1,5 @@
 # DEEPAJ
 Detecting cell type specific gene-gene interaction using deep learning
 
-The most current version of the project is in report_version.ipynb
+The reported framework is under the "version_14_12_2024.ipynb". Proposed alternative framework is under the "Alternative_Framework.ipynb".
+Dataset used in both frameworks is under the "processed_dataset_16genes.h5ad".
